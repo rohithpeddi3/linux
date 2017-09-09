@@ -1,4 +1,4 @@
-# INSTALL NODE NPM AND UPGRADE
+# INSTALLATIONS
 
 - Install nodejs any version
 ```
@@ -25,3 +25,4 @@ sudo npm install bower -g
 sudo npm uninstall -g gulp
 npm rm --global gulp
 ```
+- 
